@@ -32,7 +32,7 @@ A sophisticated Python-based log analysis tool designed for cybersecurity profes
 
 ## Usage
 ```bash
-python main.py 
+python3 main.py 
 ```
 
 ## Output Files
